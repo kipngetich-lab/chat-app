@@ -4,6 +4,7 @@
 A full-featured real-time chat application built with Node.js, React, Socket.io, MongoDB, and Tailwind CSS.
 
 ## Features:
+
     - Real-time messaging with Socket.io
     - User authentication (username/password)
     - Global chat rooms for group conversations
@@ -36,8 +37,8 @@ A full-featured real-time chat application built with Node.js, React, Socket.io,
 ## Installation
 1. Clone the repository:
    ```bash
-      git clone
-      cd
+      git clone https://github.com/kipngetich-lab/chat-app.git
+      cd chat-app
    ```
 2. Install server dependencies:
     ```bash
