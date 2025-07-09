@@ -114,14 +114,23 @@ A full-featured real-time chat application built with Node.js, React, Socket.io,
  ## Configuration
 
  You can customize the following aspects of the application:
+  - Database: Change the MongoDB connection string in the server .env filePorts:
+-  Modify the ports in the environment variables
+ -  JWT Secret: Change the secret key for authentication tokens
+ -  UI: Customize the Tailwind CSS configuration in client/tailwind.config.js
 
-    - Database: Change the MongoDB connection string in the server .env file
+## Contributing
 
-    Ports: Modify the ports in the environment variables
+Contributions are welcome! Please follow these steps:
+- Fork the repository
+- Create a new branch (git checkout -b feature-branch)
+- Commit your changes (git commit -am 'Add new feature')
+- Push to the branch (git push origin feature-branch)
+- Create a new Pull Request
 
-    JWT Secret: Change the secret key for authentication tokens
+## License
 
-    UI: Customize the Tailwind CSS configuration in client/tailwind.config.js
+This project is licensed under the MIT License - see the LICENSE file for details.
     
 
    
